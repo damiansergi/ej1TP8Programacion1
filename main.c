@@ -2,7 +2,7 @@
 
 int main (void){
 
-	char a = 'h';	//modificacion
+	char a = 'h';
 	char *p;
 	p = &a;
 	printf("a: %c\n", *p);
