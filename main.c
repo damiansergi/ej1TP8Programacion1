@@ -2,8 +2,8 @@
 
 int main (void){
 
-	char a = 'h';
-	void *p;
+	char a = 'h';	//modificacion
+	char *p;
 	p = &a;
 	printf("a: %c\n", *p);
 
